@@ -8,7 +8,7 @@
   <a href="mailto:fatihaytarpd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fatihaytarpd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-I'm a physicist turned software developer. I build full-stack products and AI systems, from data pipelines and dashboards to LLM agents that do real work. I studied physics at Istanbul University and I'm now doing an M.Sc. in Electrical & Electronics Engineering at Özyeğin University, focused on AI and data science, where I also teach physics labs as a teaching assistant.
+I'm a physicist and a software developer. I build full-stack products and AI systems, from data pipelines and dashboards to LLM agents that do real work. I studied physics at Istanbul University and I'm now doing an M.Sc. in Electrical & Electronics Engineering at Özyeğin University, focused on AI and data science, where I also teach physics labs as a teaching assistant.
 
 What I care about: tools people actually use every day, numbers I can verify, and systems that stay understandable after the demo.
 
@@ -19,7 +19,6 @@ What I care about: tools people actually use every day, numbers I can verify, an
 | **Masek** · *C++ / Qt, Claude Code* | A desktop "second brain": notes, day planning, meeting recording and transcription, all driven by AI agents running locally on top of Claude Code. In-app approvals, vault snapshots with undo, macOS and Linux builds in CI. |
 | **Socratic Learning Environment** · *Next.js, Supabase, LLMs* | Founding engineer at an early-stage startup (three-person team): an AI tutor that teaches by asking questions instead of handing out answers, with knowledge tracing to follow each student's progress. |
 | **Craft Beverage Studio** · *Next.js, TypeScript* | For Creative F&B, a Swiss beverage developer: an AI-assisted platform where brands request custom drinks, and the design of a deterministic recipe engine that turns a brief into a technical formulation. |
-| **ETF & fund analytics** · *TypeScript, Python, Supabase* | A data pipeline and dashboard for US ETFs and Turkish investment funds (prices, dividends, splits, risk metrics), built for a portfolio allocation project in my M.Sc. |
 
 *These repositories are private; happy to walk through them.*
 
