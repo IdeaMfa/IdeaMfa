@@ -26,6 +26,7 @@ What I care about: tools people actually use every day, numbers I can verify, an
 
 | Project | What it is |
 |---|---|
+| [**MySecondBrain**](https://github.com/IdeaMfa/MySecondBrain) | A second brain you talk to in Claude Code and browse in Obsidian. You say the note, Claude writes, tags and links it, then finds it again with sources. Skills for capture, recall, day planning, meeting and YouTube ingestion; plain Markdown, MIT. |
 | [**OpenScope**](https://github.com/IdeaMfa/OpenScope) | Cross-platform desktop app for microscopy image analysis (Python, PyQt6, OpenCV). Plugin architecture, consensus-voting bacteria detector, 16-bit TIFF support, CI builds. |
 | [**Quantum tunneling simulation**](https://github.com/IdeaMfa/Quifu2024QuantumTunnelingSimulation) | 1D time-dependent Schrödinger equation solved with Crank–Nicolson; animated wave packets hitting potential barriers. The wave in the banner above is a nod to it. |
 | [**Student Tracking System**](https://github.com/IdeaMfa/OrsaDemoStudentTracking) | Full-stack ASP.NET Core + Entity Framework app with authentication and CRUD for student profiles, split into [models](https://github.com/IdeaMfa/OrsaDemoModels), [Web API](https://github.com/IdeaMfa/OrsaDemoWebApi) and [web app](https://github.com/IdeaMfa/OrsaDemoWebApp). |
